@@ -5,5 +5,5 @@
 <br>
 <b>How to use code:</b>
 <br>
-<p>Download zip and then run the file hangman.py</p>
+<p>Download zip and then run the file Hangman.py</p>
 <br>
